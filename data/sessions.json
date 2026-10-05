@@ -1,0 +1,20 @@
+{
+  "cPQStjJxv2ePHUfbvwpKJd8ltQGePcr7kwuThXSELQw": {
+    "username": "VaixUdpLvL",
+    "is_admin": true,
+    "created_at": 1790878784.6267166,
+    "expires_at": 1791483584.6267166
+  },
+  "7SU_reDyHOtrR9fJWptTHsDlLBaYnBYS1T3S1kAJspw": {
+    "username": "vai",
+    "is_admin": false,
+    "created_at": 1790878794.7699246,
+    "expires_at": 1791483594.7699246
+  },
+  "UEtjxcRcomSCSbiGGUj-HRorDmSU8YcQLxHVUvl-m1M": {
+    "username": "A",
+    "is_admin": false,
+    "created_at": 1791225498.2986665,
+    "expires_at": 1791830298.2986665
+  }
+}

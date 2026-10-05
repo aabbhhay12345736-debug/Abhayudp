@@ -1,0 +1,22 @@
+{
+  "vai": {
+    "password_hash": "90c00862ba9672d43ec0336622f535c77258cba202e16d1db7fe9be5e824d99d",
+    "salt": "1cb5f232ef313eea83bb76b74c532aa7",
+    "slots": 3,
+    "plan_hours": 24,
+    "created_at": 1790878791.5601742,
+    "expires_at": 1790965191.5601742,
+    "accounts": [],
+    "_expired_flag": true
+  },
+  "A": {
+    "password_hash": "b0b0e5b095602a1b3cc8d1e5e23e1f4f38f444c68d64b3fe999fb6a18fdb5e74",
+    "salt": "194b9ba73663b2c193be323dcb934ceb",
+    "slots": 10,
+    "plan_hours": 24,
+    "created_at": 1791224315.8335621,
+    "expires_at": 1791310715.8335621,
+    "accounts": [],
+    "_expired_flag": false
+  }
+}
